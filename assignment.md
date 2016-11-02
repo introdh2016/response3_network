@@ -1,0 +1,29 @@
+# Assignment 
+
+Part 1: Network
+Build your network in Gephi. Save images of your networks to include in your paper. 
+
+
+Part 2: Paper
+
+The 500-1500 word paper should address the following:
+
+- Discuss the process of building networks.
+- Assuming the reader is unfamiliar with the data, contextualize and develop some initial arguments about your network. 
+- What questions does your network generate about your data?
+- Drawing on the constraints, critiques and ideas outlined by Weingart and Newman and from in-class discussions of projects like Linked Jazz,
+discuss the challenges/limits of network analysis as applied to your network and for network analysis generally.  
+
+# More details:
+
+- Post your response to your branch inside the [ Network Analysis Response GitHub repository](https://github.com/introdh2016/response3_network). 
+To do this, go to repo and click on "Branch: master". Type in your last name where it says "Find or create a branch". Then, click on the "create branch: YOURLASTNAME". You now have a branch! Post all your materials in there.
+
+- Images: Include images of your networks. Save the photos in your branch of the Network Analysis Response Github repo. To get the image link, right click and select "Copy Link Address".  
+
+- Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date).
+
+- Grading: [Rubric](https://github.com/introdh2016/response2_spatial/blob/master/rubric.pdf)
+
+
+
