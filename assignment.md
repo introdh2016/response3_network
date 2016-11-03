@@ -8,7 +8,7 @@ Part 2: Paper
 
 The 500-1500 word paper should address the following:
 
-- Discuss the process of building networks.
+- Discuss the role of networks in DH/ study of the humanities.
 - Assuming the reader is unfamiliar with the data, contextualize and develop some initial arguments about your network. 
 - What questions does your network generate about your data?
 - Drawing on the constraints, critiques and ideas outlined by Weingart and Newman and from in-class discussions of projects like Linked Jazz,
