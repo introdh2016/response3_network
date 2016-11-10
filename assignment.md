@@ -14,6 +14,34 @@ The 500-1500 word paper should address the following:
 - Drawing on the constraints, critiques and ideas outlined by Weingart and Newman and from in-class discussions of projects like Linked Jazz,
 discuss the challenges/limits of network analysis as applied to your network and for network analysis generally.  
 
+# Data
+
+## Supreme Court
+
+Pick an issue or two and analyze it.  The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists what [each issue number in the data set means](https://github.com/introdh2016/response3_network/blob/master/ussc-31.zip).
+
+Edge list: Make sure to add "Source" and "Target" to the edge list (this is particular to Gephi). 
+
+Node: Select the [Supreme Court Node List](https://github.com/introdh2016/labs/blob/master/scotus_nodes.csv) by your issue number in a program like Excel.  Then, copy and paste that subset into a new .csv file.  This is the node list. The first column should be "ID" (this is particular to Gephi). 
+
+## Football
+
+The data shows who tackled whom in 2015.
+
+Edge list: https://github.com/introdh2016/labs/blob/master/nfl_network_data.csv
+
+Edge list Top 20: https://github.com/introdh2016/labs/blob/master/nfl_network_data_20_2015.csv
+(includes top 20 tackler and top 20 receiver)
+
+Edgst list Top 30: https://github.com/introdh2016/labs/blob/master/nfl_network_data_30_2015.csv
+(includes top 30 tackler and top 30 receiver)
+
+Edge list: Make sure to add "Source" and "Target" to the edge list (this is particular to Gephi). 
+
+Node list: Create a node list by puttng the receivers and tacklers in a single column called "ID".
+
+
+
 # More details:
 
 - Post your response to your branch inside the [ Network Analysis Response GitHub repository](https://github.com/introdh2016/response3_network). 
