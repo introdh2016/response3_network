@@ -13,7 +13,7 @@ Response #3 Networks
 	One aspect of networks that presents difficulties is determining when to use them. Because Networking is such a helpful and wide reaching tool, people have a tendency to use it in situations where it may not necessarily be beneficial. While networks always be used, its important to choose certain situations where it will enhance the viewers understanding of the data. “Networks can be used on any project. Networks should be used on far fewer” (Weingart).
 	In Networks: An Introduction, Mark Newman describes the main advantage of creating networks; the fact that they can lead to discoveries and insights that would otherwise be undetectable. Lets look at the graph we created for example. While we would be able to tell who was tackled by who by simply examining a chart, it would be a tedious process to go through each instance a player was tackled. When the network is presented in the form of a graph, we can take in the information much quicker and in a way that tells us immediately which players have come into contact with one another. 
 
-![Alt Text][Screen Shot 2016-11-26 at 2.52.57 PM]
+
 
 
 Citations:
