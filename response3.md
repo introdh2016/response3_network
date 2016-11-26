@@ -14,4 +14,4 @@ Network Image 2: ![alt text](https://github.com/adam-p/markdown-here/raw/master/
     
     Newman, Mark "Networks: An Introduction". 2010.
     
-    Weingart, Scott B. "Demystifying Networks, Parts I & II". *Journal of Digital Humanities*. 2011.
+    Weingart, Scott B. "Demystifying Networks, Parts I & II". *Journal of Digital Humanities* . 2011.
