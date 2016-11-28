@@ -1,1 +1,1 @@
-Networks in Digitial Huminaties
+Networks in digital humanities can provide a way to find many connections with just about anything. In the Demystifying Networks article, Scott B. Weingart explains that a network is "a net-like arrangment of threads, wires, etc."(Weingart, Demystifying Networks) Networking is also simply known as a complex interlocking system, that shows relaionships with things we may not have thought to have any connection with at all. It is possible to make a network with anything that has a connection with something else. 
