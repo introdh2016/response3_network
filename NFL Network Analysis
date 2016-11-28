@@ -28,7 +28,7 @@ this problem.
        For my project, I did a bimodal network, which is "a network with two types of nodes" (Weingart, "Demystifying Networks, 
 Parts 1 & 2"). The two types of nodes in my project are NFL receivers and NFL defensive players that have tackled those 
 receivers. The edges connect certain defensive players with receivers that they have tackled in the past. When creating my 
-network, I first input my nodes and edge list and got what you can see above labeled as "NFL Network Image 1". As you can see, 
+network, I first input my nodes and edge list and got what is labeled above as "NFL Network Image 1". As you can see, 
 the nodes are overlapping and quite condensed. This was hard to read and just did not look appealing. In order to rectify this, 
 I changed the layout of the nodes to "Fruchterman Reingold" to get what you see above labeled as "NFL Network Image 2". As you 
 can see, this made the network much easier to read and the nodes are not overlapping nearly as much. From here, I was able to 
