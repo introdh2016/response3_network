@@ -1,4 +1,4 @@
-# Assignment 
+# Network Analysis Assignment 
 
 Part 1: Network
 Build your network in Gephi. Save images of your networks to include in your paper. 
