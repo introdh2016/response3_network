@@ -1,1 +1,52 @@
-# response3_network
+# Assignment 
+
+Part 1: Network
+Build your network in Gephi. Save images of your networks to include in your paper. 
+
+
+Part 2: Paper
+
+The 500-1500 word paper should address the following:
+
+- Discuss the role of networks in DH/ study of the humanities.
+- Assuming the reader is unfamiliar with the data, contextualize and develop some initial arguments about your network. 
+- What questions does your network generate about your data?
+- Draw on the possibilities and constraints outlined by Weingart, Newman and from in-class discussions of projects like Linked Jazz to discuss the challenges/limits of network analysis as applied to your network and for network analysis generally.  
+
+# Data
+
+## Supreme Court
+
+Pick an issue or two and analyze it.  The [code book](http://scdb.wustl.edu/documentation.php?s=1) lists what [each issue number in the data set means](https://github.com/introdh2016/response3_network/blob/master/ussc-31.zip).
+
+Edge list: Make sure to add "Source" and "Target" to the edge list (this is particular to Gephi). 
+
+Node: Select the [Supreme Court Node List](https://github.com/introdh2016/labs/blob/master/scotus_nodes.csv) by your issue number in a program like Excel.  Then, copy and paste that subset into a new .csv file.  This is the node list. The first column should be "ID" (this is particular to Gephi). 
+
+## Football
+
+The data shows who tackled whom in 2015.
+
+Edge list: https://github.com/introdh2016/labs/blob/master/nfl_network_data.csv
+
+Edge list Top 20: https://github.com/introdh2016/labs/blob/master/nfl_network_data_20_2015.csv
+(includes top 20 tackler and top 20 receiver)
+
+Edgst list Top 30: https://github.com/introdh2016/labs/blob/master/nfl_network_data_30_2015.csv
+(includes top 30 tackler and top 30 receiver)
+
+Edge list: Make sure to add "Source" and "Target" to the edge list (this is particular to Gephi). 
+
+Node list: Create a node list by puttng the receivers and tacklers in a single column called "ID".
+
+
+
+# More details:
+
+- Images: Include images of your networks. Save the photos in your branch of the Network Analysis Response Github repo. To get the image link, right click and select "Copy Link Address".  
+
+- Citations: Please use a modified  format since citations will be drawn from course readings. Cite relevant readings using in-text/ parenthetical citations: (author, publication, date).
+
+- Grading: See Rubric in the repository.
+
+
